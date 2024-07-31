@@ -1,0 +1,29 @@
+body {
+    background-image: url(4a04093569f391a58b35ac21bab9984b.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d1, .d2, .d3, .d4{
+    Width: 293px;
+    Height: 513px;
+    background-color: #DBC500;
+    display: inline-block;
+    opacity: 80%;
+}
+
+.d1{
+    background-color: #dbc5008a;
+    margin-left: 7px;
+}
+.d2{
+    background-color: #dbc50067;
+    margin-left: 7px;
+}
+.d3{
+    background-color: #dbc500be;
+    margin-left: 7px;
+}
+.d4{
+    background-color: #dbc50060;
+    margin-left: 7px;
+}
